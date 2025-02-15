@@ -1,3 +1,7 @@
+/** 3. Conociendo la edad de varias personas, indicar la edad promedio.
+Ej. Edades de las personas es: 15, 14, 19, 20, 16 y 18
+La salida requerida presenta el siguiente formato: La edad promedio es 17*/
+
 import Cl_Persona from "./Cl_Personas.js";
 import Cl_Programa from "./Cl_Programa.js";
 
